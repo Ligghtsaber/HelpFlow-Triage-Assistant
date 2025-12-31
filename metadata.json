@@ -1,0 +1,7 @@
+{
+  "name": "HelpFlow Triage Assistant",
+  "description": "A world-class customer support triage tool that converts raw customer messages into structured, actionable support tickets using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
